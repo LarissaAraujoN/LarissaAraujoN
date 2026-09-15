@@ -55,28 +55,40 @@ foco atual:
 
 ## `▍` TECH STACK
 
-<div align="center">
+<div align="center"> 
   
-<h3>Linguagens</h3>
- 
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1&pause=300&color=00D9FF&center=true&vCenter=true&width=200&height=40&lines=Linguagens" alt="Linguagens" />
+  
+  <br>
+  
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
- 
-<h3>Banco de Dados</h3>
- 
+
+  
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1&pause=300&color=00D9FF&center=true&vCenter=true&width=300&height=40&lines=Banco+de+Dados" alt="Banco de Dados" />
+  
+  
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF)
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-0D1117?style=for-the-badge&logo=mssqlserver-white&logoColor=CC2927)
 ![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
- 
-<h3>Dados & BI</h3>
- 
+
+
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1&pause=300&color=00D9FF&center=true&vCenter=true&width=300&height=40&lines=Dados+%26+BI" alt="Dados & BI" />
+  
+  <br>
+  
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=9D4EDD)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00D9FF)
- 
+
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:161B22&height=2&width=100%"/>
+
+
 
 ## `▍` FERRAMENTAS UTILIZADAS
  
