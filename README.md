@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,65:F72585,100:FF5EDB&height=220&section=header&text=LARISSA%20ARAUJO&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9B3FB,25:9D4EDD,70:3A0CA3,100:0D1117&height=220&section=header&text=LARISSA%20ARAUJO&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -41,9 +41,11 @@ foco atual:
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="80%" valign="center" align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=320&height=160&lines=%3E+echo+%24VIBE;Dados+%2B+Caf%C3%A9+%E2%98%95;%3E+echo+%24STATUS;Em+constante+aprendizado+%F0%9F%9A%80;%3E+echo+%24MODE;DATA_MODE%3A+ON" alt="terminal"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=320&height=180&lines=%3E+cat+perfil.txt%3BDados+%2B+Caf%C3%A9+%E2%98%95%3B%3E+echo+%24STATUS%3BEm+constante..%3B..aprendizado+%F0%9F%9A%80%3B%3E+echo+%24MODE%3BDATA_MODE%3A+ON" alt="terminal"/>
+
+<!-- <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=320&height=160&lines=%3E+echo+%24VIBE;Dados+%2B+Caf%C3%A9+%E2%98%95;%3E+echo+%24STATUS;Em+constante..+..aprendizado+%F0%9F%9A%80;%3E+echo+%24MODE;DATA_MODE%3A+ON" alt="terminal"/> -->
 
 </td>
 </tr>
@@ -54,75 +56,125 @@ foco atual:
 ## `▍` TECH STACK
 
 <div align="center">
-
-**Linguagens**
-
+  
+<h3>Linguagens</h3>
+ 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
-
-**Banco de Dados**
-
+ 
+<h3>Banco de Dados</h3>
+ 
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00D9FF)
-
-
-**Dados & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-0D1117?style=for-the-badge&logo=mssqlserver-white&logoColor=CC2927)
+![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+ 
+<h3>Dados & BI</h3>
+ 
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=9D4EDD)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00D9FF)
-
+ 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:161B22&height=2&width=100%"/>
 
 ## `▍` FERRAMENTAS UTILIZADAS
-
+ 
 <div align="center">
-
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)
+  
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9D4EDD)
-![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+ 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:161B22&height=2&width=100%"/>
 
 ## `▍` PROJETOS EM DESTAQUE
-
-
-
+ 
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+  
+<h3 align="center">🏦 Análise de Churn Bancário</h3>
+ 
+<p align="center">
+Análise exploratória de dados para identificar padrões de cancelamento de clientes em um banco: tratamento de dados com Pandas e visualizações interativas com Plotly.
+</p>
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF)
+![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat-square&logo=pandas&logoColor=9D4EDD)
+![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat-square&logo=plotly&logoColor=F72585)
+ 
+<a href="https://github.com/LarissaAraujoN/analise-churn-bancario">
+  <img src="https://img.shields.io/badge/ver_repositório-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </div>
+</td>
+
+<td width="33%" valign="top">
+  
+<h3 align="center">🥤 Melanie's Smoothies</h3>
+ 
+<p align="center">
+  
+Aplicação interativa construída com Streamlit integrada ao Snowflake, com dados em tempo real e visualizações dinâmicas usando Python e SQL.
+</p>
+
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF)
+![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=29B5E8)
+ 
+<a href="https://github.com/LarissaAraujoN/melanies_smoothies">
+  <img src="https://img.shields.io/badge/ver_repositório-F72585?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">🗄️ SQL Projects</h3>
+ 
+<p align="center">
+Coleção de scripts SQL de modelagem de banco de dados para diferentes cenários de negócio — clínica, biblioteca, escola, livraria, construtora e mais.
+</p>
+<div align="center">
+  
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=9D4EDD)
+ 
+<a href="https://github.com/LarissaAraujoN/sql-projects">
+  <img src="https://img.shields.io/badge/ver_repositório-3A0CA3?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:161B22&height=2&width=100%"/>
+
 
 ## `▍` GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LarissaAraujoN&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=9D4EDD&text_color=C9D1D9&border_color=00D9FF&border_radius=12&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaAraujoN&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&border_radius=12&hide_border=false" width="42%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=LarissaAraujoN&theme=tokyonight&background=0D1117&ring=00D9FF&fire=9D4EDD&currStreakLabel=00D9FF&border=00D9FF&border_radius=12" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LarissaAraujoN&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true&radius=12" width="95%"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:161B22&height=2&width=100%"/>
 
-## `▍` GITHUB TROPHIES
+## `▍` CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LarissaAraujoN&theme=darkhub&row=1&column=6&margin-w=8&margin-h=8&no-frame=true&no-bg=false&title=Commits,Stars,Repositories,Followers,PullRequest,Experience"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LarissaAraujoN/LarissaAraujoN/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LarissaAraujoN/LarissaAraujoN/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation eating contribution graph" src="https://raw.githubusercontent.com/LarissaAraujoN/LarissaAraujoN/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -148,8 +200,6 @@ foco atual:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:00D9FF,100:0D1117&height=120&section=footer,descAlignY=58&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9B3FB,25:9D4EDD,70:3A0CA3,100:0D1117,&height=120&section=footer&descAlignY=58&descSize=18" width="100%"/>
 <div align="center">
-<sub>Feito com ☕, Python e um pouco de teimosia — <b>Larissa Araujo</b> © 2026</sub>
 </div>
