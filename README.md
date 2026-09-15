@@ -43,7 +43,7 @@ foco atual:
 </td>
 <td width="80%" valign="center" align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=320&height=180&lines=%3E+cat+perfil.txt%3BDados+%2B+Caf%C3%A9+%E2%98%95%3B%3E+echo+%24STATUS%3BEm+constante..%3B..aprendizado+%F0%9F%9A%80%3B%3E+echo+%24MODE%3BDATA_MODE%3A+ON" alt="terminal"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=320&height=180&lines=%3E+cat+perfil.txt%3BDados+%2B+Caf%C3%A9+%E2%98%95%3B%3E+echo+%24STATUS%3BEm+constante..%3B..aprendizado+%F0%9F%9A%80%3B%3E+echo+%24MODE%3BDATA_MODE%3A+ON" alt="terminal"/>
 
 <!-- <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=320&height=160&lines=%3E+echo+%24VIBE;Dados+%2B+Caf%C3%A9+%E2%98%95;%3E+echo+%24STATUS;Em+constante..+..aprendizado+%F0%9F%9A%80;%3E+echo+%24MODE;DATA_MODE%3A+ON" alt="terminal"/> -->
 
