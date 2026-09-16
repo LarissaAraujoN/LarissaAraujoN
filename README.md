@@ -80,7 +80,7 @@ foco atual:
   <br>
   
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Excel](https://custom-icon-badges.demolab.com/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=9D4EDD)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00D9FF)
 
@@ -94,7 +94,6 @@ foco atual:
  
 <div align="center">
   
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9D4EDD)
